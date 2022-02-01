@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "cms-api-v1",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "A CMS API",
     "keywords": [
         "framework",
         "laravel"
