@@ -1,5 +1,5 @@
 {
-    "name": "cms-api-v1",
+    "name": "laravel/laravel",
     "type": "project",
     "description": "A CMS API",
     "keywords": [
